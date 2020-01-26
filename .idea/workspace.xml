@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="010c6301-d5ae-4d23-92ca-c23ce0a68cde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZooplaJan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/uk/zoopla/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WwYoLXng0HnvJMOFGuEZM3K382" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="010c6301-d5ae-4d23-92ca-c23ce0a68cde" name="Default Changelist" comment="" />
+      <created>1580062297439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580062297439</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1200" height="122" key="GridCell.Tab.0.bottom" timestamp="1580065613425">
+      <screen x="0" y="0" width="1280" height="604" />
+    </state>
+    <state width="1200" height="122" key="GridCell.Tab.0.bottom/0.0.1280.604@0.0.1280.604" timestamp="1580065613425" />
+    <state width="1200" height="122" key="GridCell.Tab.0.center" timestamp="1580065613424">
+      <screen x="0" y="0" width="1280" height="604" />
+    </state>
+    <state width="1200" height="122" key="GridCell.Tab.0.center/0.0.1280.604@0.0.1280.604" timestamp="1580065613424" />
+    <state width="1200" height="122" key="GridCell.Tab.0.left" timestamp="1580065613424">
+      <screen x="0" y="0" width="1280" height="604" />
+    </state>
+    <state width="1200" height="122" key="GridCell.Tab.0.left/0.0.1280.604@0.0.1280.604" timestamp="1580065613424" />
+    <state width="1200" height="122" key="GridCell.Tab.0.right" timestamp="1580065613424">
+      <screen x="0" y="0" width="1280" height="604" />
+    </state>
+    <state width="1200" height="122" key="GridCell.Tab.0.right/0.0.1280.604@0.0.1280.604" timestamp="1580065613424" />
+    <state x="341" y="126" key="com.intellij.ide.util.TipDialog" timestamp="1580062322569">
+      <screen x="0" y="0" width="1280" height="604" />
+    </state>
+    <state x="341" y="126" key="com.intellij.ide.util.TipDialog/0.0.1280.604@0.0.1280.604" timestamp="1580062322569" />
+  </component>
+</project>
