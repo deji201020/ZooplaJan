@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="010c6301-d5ae-4d23-92ca-c23ce0a68cde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZooplaJan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/uk/zoopla/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/Features/CustomerCanSearchForPropertyForSale.Feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,6 +45,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="299" y="105" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580068664035">
+      <screen x="0" y="0" width="1280" height="604" />
+    </state>
+    <state x="299" y="105" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.604@0.0.1280.604" timestamp="1580068664035" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1580069881755">
+      <screen x="0" y="0" width="1280" height="604" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.604@0.0.1280.604" timestamp="1580069881755" />
     <state width="1200" height="122" key="GridCell.Tab.0.bottom" timestamp="1580065613425">
       <screen x="0" y="0" width="1280" height="604" />
     </state>
@@ -66,9 +69,13 @@
       <screen x="0" y="0" width="1280" height="604" />
     </state>
     <state width="1200" height="122" key="GridCell.Tab.0.right/0.0.1280.604@0.0.1280.604" timestamp="1580065613424" />
-    <state x="341" y="126" key="com.intellij.ide.util.TipDialog" timestamp="1580062322569">
+    <state x="141" y="0" key="SettingsEditor" timestamp="1580069023324">
       <screen x="0" y="0" width="1280" height="604" />
     </state>
-    <state x="341" y="126" key="com.intellij.ide.util.TipDialog/0.0.1280.604@0.0.1280.604" timestamp="1580062322569" />
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.604@0.0.1280.604" timestamp="1580069023324" />
+    <state x="341" y="126" key="com.intellij.ide.util.TipDialog" timestamp="1580068885039">
+      <screen x="0" y="0" width="1280" height="604" />
+    </state>
+    <state x="341" y="126" key="com.intellij.ide.util.TipDialog/0.0.1280.604@0.0.1280.604" timestamp="1580068885039" />
   </component>
 </project>
